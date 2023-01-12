@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MyFragment.HomeFragment"
+    android:orientation="vertical"
+    android:background="@color/teal_200">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Welcome to Fragment_1!"
+        android:textStyle="italic"
+        android:textSize="22sp"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:layout_gravity="center"
+        android:layout_marginTop="200dp"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_openSecondFragment"
+        android:layout_gravity="center"
+        android:text="Open Fragment 2"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/purple_500"
+        android:textStyle="italic"
+        android:layout_marginTop="50dp"
+        />
+
+</LinearLayout>
