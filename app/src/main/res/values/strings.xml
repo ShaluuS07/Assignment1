@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">modified</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="submit">Submit</string>
+    <string name="enter_text_to_pass">Enter text to Pass</string>
+    <string name="fragment_1">Fragment 1</string>
+    <string name="fragment_2">Fragment 2</string>
+    <string name="text">Text</string>
+    <string name="password">password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="enter">Enter</string>
+</resources>
